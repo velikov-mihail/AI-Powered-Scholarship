@@ -1,5 +1,5 @@
 # AI--Powered--Scholarship
-Code used in Novy-Marx and Velikov (2024b), AI-Powered (Finance) Scholarship.
+Code used in [Novy-Marx and Velikov (2024b), AI-Powered (Finance) Scholarship.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5060022)
 
 We first mine 30K+ potential stock return predictor signals from accounting data, and apply
 the Novy-Marx and Velikov (2024) “Assaying Anomalies” protocol to generate
