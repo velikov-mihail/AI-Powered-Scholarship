@@ -1,0 +1,243 @@
+acronym,shortername
+ACCHG,Accounting changes cumulative effect
+ACO,Current assets other total
+ACOX,Curr assets other sundry
+ACT,Current assets
+AM,Amortization of intangibles
+AO,Assets other
+AOLOCH,Assets and liabilities other net change
+AOX,Assets other sundry
+AP,Accounts payable trade
+APALCH,Payable & liabilities change
+AQC,Acquisitions
+AQI,Merger income contrib
+AQS,Merger sales contrib
+AT,Assets
+BAST,Average short-term borrowing
+CAPS,Capital surplus
+CAPX,Capital expenditure
+CAPXV,Capex PPE sch V
+CEQ,Common equity
+CEQL,Equity liq value
+CEQT,Common equity tangible
+CH,Cash
+CHE,Cash & ST investments
+CHECH,Cash and cash equivalents change
+CLD2,Capitalized leases due in 2nd year
+CLD3,Capitalized leases due in 3rd year
+CLD4,Capitalized leases due in 4th year
+CLD5,Capitalized leases due in 5th year
+COGS,Cost of goods sold
+CSTK,Common stock
+CSTKCV,Common stock-carrying value
+CSTKE,Common stock equivalents
+DC,Deferred charges
+DCLO,Debt capitalized lease obligations
+DCOM,Deferred compensation
+DCPSTK,Convertible debt and stock
+DCVSR,Debt senior convertible
+DCVSUB,Debt subordinated convertible
+DCVT,Debt convertible
+DD,Debt debentures
+DD1,Long-term debt due in one year
+DD2,Debt due in 2nd year
+DD3,Debt due in 3rd year
+DD4,Debt due in 4th year
+DD5,Debt due in 5th year
+DFS,Debt finance subsidiary
+DFXA,Depreciation of tangible fixed assets
+DILADJ,Dilution adjustment
+DILAVX,Dilution available excluding extraordinary items
+DLC,Debt in current liab
+DLCCH,Current debt changes
+DLTIS,Long-term debt issuance
+DLTO,Other long-term debt
+DLTP,Long-term debt tied to prime
+DLTR,Long-term debt reduction
+DLTT,Long-term debt
+DM,Debt mortgages & other secured
+DN,Debt notes
+DO,Income  from discontinued operations
+DONR,Nonrecurring discontinued operations
+DP,Depreciation & amort
+DPACT,Depreciation depl amort
+DPC,Depreciation (CF acct)
+DPVIEB,Deprec end bal (Sch VI)
+DPVIO,Depreciation other changes
+DPVIR,Depreciation retirements
+DRC,Deferred revenue current
+DS,Debt-subordinated
+DUDD,Debt unamortized debt discount and other
+DV,Cash dividends
+DVC,Dividends common
+DVP,Dividends pref
+DVPA,Preferred dividends in arrears
+DVPIBB,Depreciation beg bal
+DVT,Dividends
+DXD2,Debt ex-lease due in 2nd year
+DXD3,Debt ex-lease due in 3rd year
+DXD4,Debt ex-lease due in 4th year
+DXD5,Debt ex-lease due in 5th year
+EBIT,Earnings before interest and taxes
+EBITDA,EBITDA
+ESOPCT,ESOP obligation (common)
+ESOPDLT,ESOP debt long term
+ESOPT,Preferred ESOP obligation
+ESUB,Equity in earnings unconsolidated subsidiaries
+ESUBC,Equity in net loss earnings
+EXRE,Exchange rate effect
+FATB,PPE buildings
+FATC,PPE construction in progress
+FATE,PPE and machinery
+FATL,PPE leases
+FATN,PPE and natural resources
+FATO,PPE other
+FATP,PPE and land improvements
+FIAO,Financing activities other
+FINCF,Financing activities net cash flow
+FOPO,Funds from operations other
+FOPOX,Funds from operations other excl option tax benefit
+FOPT,Funds from operations
+FSRCO,Sources of funds other
+FSRCT,Sources of funds total
+FUSEO,Uses of funds other
+FUSET,Uses of funds total
+GDWL,Goodwill
+GP,Gross profit
+IB,Income bef extraord
+IBADJ,IB adjusted for common stock equivalents
+IBC,Income bef extraord cf
+IBCOM,Income bef extraord common
+ICAPT,Invested capital
+IDIT,Interest and related income
+INTAN,Intangible assets
+INTC,Interest capitalized
+INTPN,Interest paid net
+INVCH,Inventory decrease
+INVFG,Inventories finished goods
+INVO,Inventories other
+INVRM,Inventories raw materials
+INVT,Inventories
+INVWIP,Inventories work in progress
+ITCB,Investment tax credit
+ITCI,Invest tax credit inc acct
+IVACO,Investing activities other
+IVAEQ,Invest & advances equity
+IVAO,Invest & advances other
+IVCH,Increase in investments
+IVNCF,Investing activities net cash flow
+IVST,Short-term investments
+IVSTCH,ST investments change
+LCO,Current liabilities other total
+LCOX,Current liabilities other sundry
+LCOXDR,Current liabilities-other-excl deferred revenue
+LCT,Current liabilities
+LIFR,LIFO reserve
+LO,Liabilities other
+LT,Liabilities
+MIB,Minority interest
+MII,Minority interest (income account)
+MRC1,Rental commit min 1st year
+MRC2,Rental commit min 2nd year
+MRC3,Rental commit min 3rd year
+MRC4,Rental commit min 4th year
+MRC5,Rental commit min 5th year
+MRCT,Rental commit min 5-year total
+MSA,Marketable securities adjustment
+NI,Net income
+NIADJ,Net income adjusted for common stock equiv.
+NIECI,Net income effect capitalized interest
+NOPI,Nonop income
+NOPIO,Nonop income other
+NP,Notes payable st
+OANCF,Operating activities net cash flow
+OB,Order backlog
+OIADP,Op income after deprec
+PI,Pretax income
+PIDOM,Pretax income domestic
+PIFO,Pretax income foreign
+PPEGT,PPE gross
+PPENB,PPE buildings net
+PPENC,PPE in progress
+PPENLI,PPE land and improvements net
+PPENME,PPE machinery
+PPENNR,PPE natural resources net
+PPENO,PPE other net
+PPENT,PPE net
+PPEVBB,PPE beginning balance
+PPEVEB,PPE ending balance
+PPEVO,PPE other changes
+PPEVR,PPE retirements
+PRSTKC,Stock repurchases
+PSTK,Pref stock
+PSTKC,Pref stock convertible
+PSTKL,Pref stock liq value
+PSTKN,Pref stock nonredeemable
+PSTKR,Pref stock redeemable
+PSTKRV,Pref stock redemp val
+RDIP,In process R&D expense
+RE,Retained earnings
+REA,Retained earnings restatement
+REAJO,Retained earnings other adjustments
+RECCH,Accounts receivable decrease (increase)
+RECCO,Receiv current other
+RECD,Receivables estimated doubtful
+RECT,Receivables
+RECTA,Retained earnings cumulative translation adjustment
+RECTR,Receivables trade
+REUNA,Retained earnings unadj
+SALE,Sales
+SEQ,Stockholders equity
+SIV,Sale of investments
+SPI,Special items
+SPPE,Sale of property
+SPPIV,Sale of PPE
+SSTK,Stock issuance
+TLCF,Tax loss carry forward
+TSTK,Treasury stock (all capital)
+TSTKC,Treasury stock common
+TSTKP,Treasury stock preferred
+TXACH,Income taxes accrued change
+TXBCO,Excess tax benefit stock options cash flow
+TXC,Income tax current
+TXDB,Deferred taxes
+TXDBA,Deferred tax asset long term
+TXDBCA,Deferred tax asset current
+TXDBCL,Deferred tax liability current
+TXDC,Deferred taxes cash flow
+TXDFED,Deferred taxes federal
+TXDFO,Deferred taxes foreign
+TXDI,Income tax deferred
+TXDITC,Def taxes + inv tax cred
+TXDS,Deferred taxes state
+TXFED,Income tax federal
+TXFO,Income tax foreign
+TXNDB,Net deferred tax asset (liab)
+TXNDBA,Net deferred tax asset
+TXNDBL,Net deferred tax liability
+TXNDBR,Deferred tax residual
+TXO,Income taxes other
+TXP,Income tax payable
+TXPD,Income taxes paid
+TXR,Income tax refund
+TXS,Income tax state
+TXT,Income tax total
+TXW,Excise taxes
+WCAP,Working capital
+WCAPC,Working capital change other change
+WCAPCH,Working capital change total
+XACC,Accrued expenses
+XAD,Advertising expense
+XDEPL,Depletion expense
+XI,Extraordinary items
+XIDO,Extra. items and discontinued operations
+XIDOC,Extra. items and disc. operations
+XINT,Interest expense
+XOPR,Operating expenses
+XPP,Prepaid expenses
+XPR,Pension retirem expense
+XRD,Research and development expense
+XRENT,Rental expense
+XSGA,SG&A
+EMP,Num employees
+ME_DATADATE,Market equity FYE
