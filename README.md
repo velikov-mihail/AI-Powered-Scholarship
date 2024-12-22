@@ -9,7 +9,7 @@ using a wide array of tests and benchmarks it to more than 200 other known
 anomalies. Finally, we use state-of-the-art LLMs to generate three distinct
 complete versions of academic papers for each signal. You can find a description of the signals and links to the generated papers in the table below.
 
-To listen to an AI-generated podcast on our paper about AI-generated papers, click [https://notebooklm.google.com/notebook/3fc2a3ad-2a2d-4619-833b-c3684eb76a55/audio](here).
+To listen to an AI-generated podcast on our paper about AI-generated papers, click [here]([(https://notebooklm.google.com/notebook/3fc2a3ad-2a2d-4619-833b-c3684eb76a55/audio).
 
 <table border='1' style='border-collapse: collapse; text-align: center;'>
 <tr>
